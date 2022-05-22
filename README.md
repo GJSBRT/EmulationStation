@@ -1,8 +1,8 @@
 EmulationStation
 ================
 
-This is a fork of EmulationStation for RetroPie.
-EmulationStation is a cross-platform graphical front-end for emulators with controller navigation.
+This is a fork a fork of EmulationStation for RetroPie.
+This repo is used for a school project. I don't recommend using this.
 
 Building
 ========
